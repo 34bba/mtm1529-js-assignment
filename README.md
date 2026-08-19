@@ -1,7 +1,6 @@
 # MTM1529 – Learn JavaScript (Codecademy) – Assignment Screenshots
 
 **Student:** Aymen Tiaiba
-**Course:** Interactive Media Management, Algonquin College
 
 ## Completed Modules
 
