@@ -14,4 +14,4 @@
 | 5 | Utilize arrays to manage data in JavaScript | `aymen-arrays.png` |
 | 6 | Manage variable scope in JavaScript | `aymen_scope.png` |
 
-**Note:** A screenshot of the course overview page (showing 100% progress and account profile) should be added here as well — take this directly from your Codecademy account and add it to this repo before submitting.
+
